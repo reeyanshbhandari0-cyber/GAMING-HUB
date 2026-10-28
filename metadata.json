@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Arcade",
+  "description": "All-in-one cyberpunk gaming portal featuring 8 playable arcade, racing, space shooter, tactical defense, platformer, and logic puzzle games with unified XP and achievements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
